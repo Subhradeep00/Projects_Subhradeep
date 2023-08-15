@@ -66,6 +66,11 @@ Add the bill of the materials you need for this project.
      
 |===
 
+<div align="left">
+<img src="https://graph.org/file/65b4aa7137ff09fa7ac29.jpg" width="400" height="400"/>
+<img src="https://telegra.ph/file/b8167fdc8ad95d8896433.jpg" width="400" height="400"/>
+</div>
+
 
 === Help
 Feel free to contact me if you face any deficulty. Details are provided here.
