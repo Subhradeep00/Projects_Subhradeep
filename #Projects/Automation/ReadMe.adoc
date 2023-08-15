@@ -1,17 +1,14 @@
 :Author: subhradeep2002
-:Email:
+:Email: Myfamily9476@gmail.com
 :Date: 30/07/2023
-:Revision: version#
+:Revision: version# 3.17
 :License: Public Domain
 
-= Project: {Project}
+= Project: Automation
 
-Describe your project
+project Description
 
 == Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
 
 1. Open this file
 2. Edit as you like
@@ -19,7 +16,7 @@ For example:
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+Assemble the circuit following the diagram image provided in the Readme file.
 
 == Step 3: Load the code
 
@@ -29,8 +26,8 @@ Upload the code contained in this sketch on to your board
 
 ....
  sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
+  ├── main.ino            => main Arduino file
+  ├── thingsProperties    => 
   ├── layout.png          => (optional) an image of the layout
   └── ReadMe.adoc         => this file
 ....
