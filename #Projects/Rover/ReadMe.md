@@ -18,6 +18,8 @@
 
 https://github.com/Subhradeep00/Automation/assets/102454741/d29039e5-4e08-412d-835d-50288e84ee8e.mp4
 
+# IMAGE
+
 <div align="center">
 <img src="https://graph.org/file/08acea7cdc5315385244a.jpg" width="250" height="250"/>
 <img src="https://telegra.ph/file/b8167fdc8ad95d8896433.jpg" width="250" height="250"/>
