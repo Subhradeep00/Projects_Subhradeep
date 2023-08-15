@@ -7,12 +7,12 @@
 = Project: Automation
 
 ```
-                                                    Greetings Techie
+                                                    ***Greetings Techie***
 
              This is a home automation device project using which one can handle all the home appliances remotely.
                Keep an eye on the surrounding starting from temperature, humidity to any movement on that place.
 
-                              I have uploaded some Images Below, Don't forget to check it out.
+                              I have uploaded some Images on ReadMe.md, Don't forget to check it out.
                                                         🙂🙂🙂
 
 ```
@@ -65,12 +65,6 @@ Add the bill of the materials you need for this project.
 | A2 | PCB                  | 1
      
 |===
-
-<div align="left">
-<img src="https://graph.org/file/65b4aa7137ff09fa7ac29.jpg" width="400" height="400"/>
-<img src="https://telegra.ph/file/b8167fdc8ad95d8896433.jpg" width="400" height="400"/>
-</div>
-
 
 === Help
 Feel free to contact me if you face any deficulty. Details are provided here.
