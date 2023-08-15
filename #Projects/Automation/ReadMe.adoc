@@ -38,6 +38,7 @@ Upload the code contained in this sketch on to your board
   ├── thingsProperties    => Variables and mechanism for the logic 
   ├── arduino_secrets     => Wifi details
   ├── sketch.json         => Operations for hardware
+  ├── ReadMe.md           => Images and Videos
   └── ReadMe.adoc         => this file
 ....
 
