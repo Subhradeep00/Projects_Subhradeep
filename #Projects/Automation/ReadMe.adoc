@@ -6,11 +6,18 @@
 
 = Project: Automation
 
-project Description
+```
+                                                    Greetings Techie
 
+             This is a home automation device project using which one can handle all the home appliances remotely.
+               Keep an eye on the surrounding starting from temperature, humidity to any movement on that place.
+
+                              I have uploaded some Images Below, Don't forget to check it out.
+
+```
 == Step 1: Installation
 
-1. Open this file
+1. Look for the Source code in this repository
 2. Edit as you like
 3. Release to the World!
 
@@ -25,7 +32,7 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
+  Automation              => Arduino sketch folder
   ├── main.ino            => main Arduino file
   ├── thingsProperties    => Variables and mechanism for the logic 
   ├── arduino_secrets     => Wifi details
@@ -35,9 +42,6 @@ Upload the code contained in this sketch on to your board
 
 === License
 This project is released under a GNU 3.0 Public License.
-
-=== Contributing
-To contribute to this project please contact me. Details are provided here. 
 
 === BOM
 Add the bill of the materials you need for this project.
@@ -63,4 +67,4 @@ Add the bill of the materials you need for this project.
 
 
 === Help
-Feel free to contact me if you face any deficulty.
+Feel free to contact me if you face any deficulty. Details are provided here.
